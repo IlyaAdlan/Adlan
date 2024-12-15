@@ -1,4 +1,3 @@
-# Adlan
 <h1 align="center">Hi 👋, I'm Adlan</h1>
 <h3 align="center">Im a Noroff student from Norway</h3>
 
