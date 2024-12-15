@@ -9,6 +9,10 @@ I think that im still very un-experienced when it comes to the world of coding b
 - 🔭 I’m currently working on my Portfolio [Project-Exam Nature's Path](https://github.com/IlyaAdlan/project-exam-1-Adlan-Ilyasov)
 
 - 👨‍💻 All of my projects are available at my GitHub Profile [https://github.com/IlyaAdlan/Adlan](https://github.com/IlyaAdlan/Adlan)
+  
+- **Languages:** JavaScript, HTML, CSS.
+- **Frameworks/Libraries:** Soon™️
+- **Tools:** Git, VS Code, Figma
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
