@@ -2,7 +2,9 @@
 <h3 align="center">Im a Noroff student from Norway</h3>
 <p>Hello, my name is Adlan Ilyasov and im 22 years old.
 I live in Norway and i'm student at Noroff.
-I've always really liked coding, which is why im studying front end.</p>
+I've always really liked coding, which is why im studying front end Development.
+In my free time i like to play video games and hang out with my friends. 
+I think that im still very un-experienced when it comes to the world of coding but i am willing to learn.</p>
 
 - 🔭 I’m currently working on my Portfolio [Project-Exam Nature's Path](https://github.com/IlyaAdlan/project-exam-1-Adlan-Ilyasov)
 
