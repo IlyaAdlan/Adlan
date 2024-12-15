@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Adlan</h1>
 <h3 align="center">Im a Noroff student from Norway</h3>
+<p>Hello, my name is Adlan Ilyasov and im 22 years old.
+I live in Norway and i'm student at Noroff.
+I've always really liked coding, which is why im studying front end.</p>
 
 - 🔭 I’m currently working on my Portfolio [Project-Exam Nature's Path](https://github.com/IlyaAdlan/project-exam-1-Adlan-Ilyasov)
 
